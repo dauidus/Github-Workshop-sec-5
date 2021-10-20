@@ -71,6 +71,7 @@ jQuery(document).ready(function(){
             width: 153
         }           
     });
+    //memes
 	 
 	/* ---------------------------------------------------------------------- */
 	/*	Menu
@@ -90,7 +91,7 @@ jQuery(document).ready(function(){
 	  tabActiveClass	:'active',
 	});
 
-	
+	// more memes
 	// Hover menu effect
 	$content.find('.tabs li a').hover(
 		function() {
