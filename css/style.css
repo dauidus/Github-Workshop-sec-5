@@ -6,11 +6,11 @@
 	}
 
 	body {
-	  background-color: #black;
+	  background-color: #ABCDEF;
 	  margin: 0px;
 	  padding: 0px;
 	  font-family: 'open Sans', Arial;
-	  font-size: 12px;
+	  font-size: 36px;
 	}
 
 	/* Font face */
@@ -34,7 +34,7 @@
 	}
 
 	#content {
-	  background-color: #FFF;
+	  background-color: #CCC;
 	  -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 	  -moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 	  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
