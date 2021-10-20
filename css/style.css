@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #C9B8A7;
+		background-color: #2f7033;
 		margin: 0px;
 		padding: 0px;
 		font-family:'open Sans', Arial;
@@ -34,9 +34,9 @@
 	}
 	#content {
 		background-color:#FFF;
-		-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
-		-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
-		box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+		-webkit-box-shadow: 0 1px 6px rgba(53, 25, 25, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+		-moz-box-shadow: 0 1px 6px rgba(41, 11, 11, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+		box-shadow: 0 1px 6px rgba(46, 5, 5, 0.27), 0 0 40px rgba(32, 22, 22, 0.06) inset;
 	}
 	/*-------------------------------------------------------*/
 		/* Generic Classes */
