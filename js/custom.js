@@ -229,6 +229,10 @@ jQuery(document).ready(function(){
 	/* ---------------------------------------------------------------------- */
 	/*	Google Maps
 	/* ---------------------------------------------------------------------- */
+
+	/*
+		Added memory leak
+	*/
 	
 	// Needed variables
 	var $map 				= $('#map'),
@@ -238,7 +242,7 @@ jQuery(document).ready(function(){
 		// needs to be connected to Google Maps API
 		// click link on map popup for more info
 		$lat 				= '33.781122',
-		$lon 				= '-117.112858';
+		$lon 				= '-116.112858';
 
 	$map.gmap().bind('init', function(ev, map) {
 		$map.gmap('addMarker', {'position': $lat +','+ $lon  , 'bounds': true}).click(function() {
