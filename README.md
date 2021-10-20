@@ -3,3 +3,5 @@
  this is not a bug :)
 
 or is it?
+
+Only allow commits to READ ME to avoid breaking the website .. XD
