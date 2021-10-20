@@ -71,7 +71,6 @@ jQuery(document).ready(function(){
             width: 153
         }           
     });
-    //memes
 	 
 	/* ---------------------------------------------------------------------- */
 	/*	Menu
@@ -91,7 +90,7 @@ jQuery(document).ready(function(){
 	  tabActiveClass	:'active',
 	});
 
-	// more memes
+	
 	// Hover menu effect
 	$content.find('.tabs li a').hover(
 		function() {
@@ -239,7 +238,7 @@ jQuery(document).ready(function(){
 		// needs to be connected to Google Maps API
 		// click link on map popup for more info
 		$lat 				= '33.781122',
-		$lon 				= '-110.112858';
+		$lon 				= '-117.112858';
 
 	$map.gmap().bind('init', function(ev, map) {
 		$map.gmap('addMarker', {'position': $lat +','+ $lon  , 'bounds': true}).click(function() {
