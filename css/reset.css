@@ -16,9 +16,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video, textarea, input {
-	margin: 100000000000000000;
-	padding: 1000000000000;
-	border: 10;
+	margin: 0;
+	padding: 0;
+	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -45,6 +45,6 @@ q:before, q:after {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 30000000000000;
+	border-spacing: 0;
 }
 a{ color:inherit;}
